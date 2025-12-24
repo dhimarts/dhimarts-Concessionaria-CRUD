@@ -81,6 +81,7 @@
     return selector;
   };
 
+                       
   // Shout-out Angus Croll (https://goo.gl/pxwQGp)
   const toType = object => {
     if (object === null || object === undefined) {
